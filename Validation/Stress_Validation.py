@@ -12,7 +12,7 @@ def get_parent_dir(n=1):
     for k in range(n):
         current_path = os.path.dirname(current_path)
     return current_path
-sys.path.append(os.path.join(get_parent_dir(1), "main"))
+sys.path.append(os.path.join(get_parent_dir(1), "Main"))
 from MLE import PyMastic
 
 ## -------------- Validation: STart --------------- ##

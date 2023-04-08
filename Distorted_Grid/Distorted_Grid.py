@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug 14 11:48:17 2020, Distorted Grid (Deflecyion)
+Created on Fri Aug 14 11:48:17 2020, Distorted Grid (Deflection)
 
 @author: Mostafa
 """
